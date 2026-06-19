@@ -8,7 +8,7 @@
 
 Clean code · accessibility-first · built for performance.
 
-[Website](https://vpjoomla.com) · [Documentation](https://vpjoomla.com/documentation) · [Support](mailto:support@vpjoomla.com)
+[Website](https://vpjoomla.com) · [Documentation](https://vpjoomla.com/docs/extensions-docs) · [Support](mailto:support@vpjoomla.com)
 
 </div>
 
@@ -40,7 +40,7 @@ update server so your sites stay current.
 ## Links
 
 - 🌐 Website — [vpjoomla.com](https://vpjoomla.com)
-- 📖 Documentation — [vpjoomla.com/documentation](https://vpjoomla.com/documentation)
+- 📖 Documentation — [vpjoomla.com/documentation](https://vpjoomla.com/docs/extensions-docs)
 - 💬 Support — [support@vpjoomla.com](mailto:support@vpjoomla.com)
 
 <div align="center">
