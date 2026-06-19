@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://vpjoomla.com/images/vpjoomla-logo-full.png" alt="VPJoomla" width="512">
+<img src="https://vpjoomla.com/images/vpjoomla-logo-full-exact-white.png" alt="VPJoomla" width="512">
 
 # VPJoomla
 
