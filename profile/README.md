@@ -23,11 +23,11 @@ update server so your sites stay current.
 
 | Extension | Type | |
 | --- | --- | --- |
-| **[VP FAQ](https://vpjoomla.com/extensions/vp-faq)** | Component + Module · *Premium* | Build elegant, organized FAQ sections with categories and search. |
-| **[VP Accordion](https://github.com/vpjoomla/mod_vp_accordion)** | Module · *Free* | Lightweight Bootstrap 5 accordions for FAQs, docs and more. |
-| **[VP Swiper Slider](https://github.com/vpjoomla/mod_vp_swiper_slider)** | Module · *Free / Pro* | Responsive sliders powered by SwiperJS. |
-| **[VP Speed](https://github.com/vpjoomla/plg_vp_speed)** | Plugin · *Free / Pro* | Front-end performance optimization for faster PageSpeed scores. |
-| **[VP SEO](https://github.com/vpjoomla/plg_vp_seo)** | Plugin · *Free* | SEO enhancements and cleaner markup for Joomla sites. |
+| **[VP FAQ](https://vpjoomla.com/extensions/frontend/vp-faq)** | Component + Module · *Premium* | Build elegant, organized FAQ sections with categories and search. |
+| **[VP Accordion](https://github.com/vpjoomla/extensions/frontend/mod_vp_accordion)** | Module · *Free* | Lightweight Bootstrap 5 accordions for FAQs, docs and more. |
+| **[VP Swiper Slider](https://github.com/vpjoomla/extensions/frontend/mod_vp_swiper_slider)** | Module · *Free / Pro* | Responsive sliders powered by SwiperJS. |
+| **[VP Speed](https://github.com/vpjoomla/extensions/performance/plg_vp_speed)** | Plugin · *Free / Pro* | Front-end performance optimization for faster PageSpeed scores. |
+| **[VP SEO](https://github.com/vpjoomla/extensions/performance/plg_vp_seo)** | Plugin · *Free* | SEO enhancements and cleaner markup for Joomla sites. |
 | **VP Social Login** | Package · *Free* · *coming soon* | One-click login with Telegram, Google, GitHub & Discord. |
 
 ## Why VPJoomla
