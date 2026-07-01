@@ -28,7 +28,7 @@ update server so your sites stay current.
 | **[VP Swiper Slider](https://vpjoomla.com/extensions/frontend/vp-swiper-slider)** | Module · *Free / Pro* | Responsive sliders powered by SwiperJS. |
 | **[VP Speed](https://vpjoomla.com/extensions/performance/vp-speed)** | Plugin · *Free / Pro* | Front-end performance optimization for faster PageSpeed scores. |
 | **[VP SEO](https://vpjoomla.com/extensions/performance/vp-seo)** | Plugin · *Free / Pro* | SEO enhancements and cleaner markup for Joomla sites. |
-| **VP Social Login** | Package · *Free* · *coming soon* | One-click login with Telegram, Google, GitHub & Discord. |
+| **[VP Social Login](https://vpjoomla.com/extensions/social-login/vp-social-login)** | Package · *Free* | One-click login with Telegram, Google, GitHub & Discord. |
 
 ## Why VPJoomla
 
